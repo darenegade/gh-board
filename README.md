@@ -2,7 +2,7 @@
 [![issues][gh-board-image]][gh-board-url]
 [![dependency status][dependency-image]][dependency-url]
 [![dev dependency status][dev-dependency-image]][dev-dependency-url]
-
+ 
 Why waste time and money paying for a Ticket Tracker when you already work in GitHub? Now, you don't have to.
 
 ![image](https://cloud.githubusercontent.com/assets/253202/13620649/4ef888cc-e55f-11e5-8576-8970abba8660.png)
